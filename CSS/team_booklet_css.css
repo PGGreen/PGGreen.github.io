@@ -1,0 +1,76 @@
+*
+{
+	margin 0;
+	padding: 0;
+}
+
+#titleheader
+{
+	width: 300px;
+	height: 80px;
+	margin: 50px 0px 0px 200px;
+}
+
+h1
+{
+	text-align: center;
+	text-decoration: underline;
+}
+
+h2
+{
+	text-align: left;
+	float: left;
+}
+
+textarea
+{
+	height: 100%;
+    width: 100%;
+   -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+	font-size: 15px;
+	resize: none;
+}
+
+div
+{
+	/*border: 2px solid red;*/
+}
+
+#firsttextarea
+{
+	position: relative;
+	height: 500px;
+	width: 500px;
+}
+
+#bookletcodetext
+{
+	text-transform: uppercase;
+	font-size: 40px;
+	text-align: center;
+	/*border: 1px solid green;*/
+	margin: 0px;
+}
+
+#bookletcode
+{
+	width: 300px;
+	height: 80px;
+	float: right;
+	margin: 0px 600px 0px 0px;
+}
+
+#codebox
+{
+	width: 110px;
+	height: 50px;
+	top: 0px;
+	float: right;
+	position: relative;
+	margin: 10px;
+	border: 4px solid black;
+	margin: 0px 15px 0px 0px;
+}
